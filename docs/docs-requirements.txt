@@ -7,3 +7,4 @@ Sphinx>=3.4.3
 nbsphinx
 ipykernel
 pypandoc
+matplotlib
