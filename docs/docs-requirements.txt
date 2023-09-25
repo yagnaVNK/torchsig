@@ -8,3 +8,4 @@ nbsphinx
 ipykernel
 pypandoc
 matplotlib
+-e .
