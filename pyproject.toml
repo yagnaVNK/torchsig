@@ -16,7 +16,7 @@ classifiers = [
 ]
 keywords = ["signal processing", "machine learning"]
 dependencies = [
-    "torch==2.0.1",
+    "torch>=2.0.0",
     "torchvision",
     "torchmetrics[detection]",
     "tqdm",
